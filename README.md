@@ -37,19 +37,14 @@ At SugarBroom Studios, we offer a range of services to help your business succee
    - Improve your website’s performance, speed, and mobile optimization.
    - Implement SEO best practices to increase your website’s visibility.
 
-### 3. **E-commerce Solutions**
-   - Set up online stores using platforms like Shopify, WooCommerce, or custom solutions.
-   - Payment integration, product listings, and checkout optimization.
-
-### 4. **Search Engine Optimization (SEO)**
+### 3. **Search Engine Optimization (SEO)**
    - Improve your website’s ranking on search engines like Google.
    - Keyword research, on-page SEO, and performance tracking to boost visibility.
 
-### 5. **Content Management Systems (CMS)**
-   - We use CMS platforms like WordPress, Webflow, and others to give you full control over your website content.
-   - Easy-to-use backends for updating and managing your website without any coding knowledge.
+### 4. **Content Management Systems (CMS)**
+   - Easy-to-use dashboards for updating and managing your website without any coding knowledge.
 
-### 6. **Ongoing Support & Maintenance**
+### 5. **Ongoing Support & Maintenance**
    - Regular updates and security patches to ensure your website is always running smoothly.
    - Ongoing support to help you with any issues that arise post-launch.
 
@@ -61,23 +56,22 @@ We use a combination of the latest tools and technologies to build websites that
 
 - **Frontend Development**:
   - HTML5, CSS3, JavaScript
-  - React, TailwindCSS, Bootstrap
+  - .Net, Bootstrap
 
 - **Backend Development**:
-  - WordPress, Webflow, Shopify
-  - PHP, Node.js, Express.js
+  - Azure
+  - SQL, JSON
 
 - **SEO and Analytics**:
   - Google Analytics
   - Google Search Console
-  - Yoast SEO, SEMrush, Moz
 
 - **Design Tools**:
-  - Adobe XD, Figma, Sketch
-  - Canva, Photoshop
+  - Figma
+  - GIMP
 
 - **Hosting & Domain**:
-  - WordPress Hosting, Bluehost, SiteGround
+  - Porkbun
   - Custom domains (e.g., www.yourbusiness.com)
 
 ---
@@ -112,11 +106,11 @@ We follow a structured process to ensure that every project is completed on time
 
 We’ve had the privilege of working with numerous small businesses across various industries. Here are some examples of our work:
 
-- **[Project 1: Local Bakery Website](#)**: A modern, responsive website that showcases the bakery’s products, location, and online ordering system.
-- **[Project 2: Independent Coffee Shop](#)**: A stylish website with a blog, menu, and contact information.
-- **[Project 3: Local Contractor Business](#)**: A professional website that helps the contractor manage leads, showcase projects, and book consultations.
+- **[Project 1: Garnavillo Mini-Mart](www.garnavillominimart.com)**: A modern, responsive website that showcases the Convinece products and location.
+- **[Project 2: Joe's Pizza Guttenberg](www.joespizzaguttenberg.com)**: A stylish website with a host of features.
+- **[Project 3: Deep Blue Sea Food](www.deepblueseafoodllc.com)**: A professional website that helps owner get clients and leads on producs he has in stock.
 
-For more examples, check out our full portfolio on our [website](#).
+For more examples, check out our full portfolio on our [SugarBroom Studios](www.sugarbroomstudios.com).
 
 ---
 
@@ -124,12 +118,7 @@ For more examples, check out our full portfolio on our [website](#).
 
 Ready to get started on your website? Reach out to us today!
 
-- **Email**: [info@sugarbroomstudios.com](mailto:info@sugarbroomstudios.com)
-- **Phone**: +1 (555) 123-4567
-- **Social Media**:
-  - Facebook: [SugarBroom Studios](#)
-  - Instagram: [@SugarBroomStudios](#)
-  - LinkedIn: [SugarBroom Studios](#)
+- **Email**: [info@sugarbroomstudios.com](mailto:sugarbroomstudios@gmail.com)
 
 ---
 
@@ -151,13 +140,3 @@ Ready to get started on your website? Reach out to us today!
 
 Thank you for choosing **SugarBroom Studios**! We look forward to helping your business grow and succeed online.
 """
-
-# Saving the content to a README.md file
-file_path = '/mnt/data/SugarBroom_Studios_README.md'
-
-with open(file_path, 'w') as file:
-    file.write(readme_content)
-
-file_path
-
-
