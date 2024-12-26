@@ -106,7 +106,7 @@ We follow a structured process to ensure that every project is completed on time
 
 We’ve had the privilege of working with numerous small businesses across various industries. Here are some examples of our work:
 
-- **[Project 1: Garnavillo Mini-Mart](www.garnavillominimart.com)**: A modern, responsive website that showcases the Convinece products and location.
+- **[Project 1: Garnavillo Mini-Mart](www.garnavillominimart.com)**: A modern, responsive website that showcases the convience stores products and location.
 - **[Project 2: Joe's Pizza Guttenberg](www.joespizzaguttenberg.com)**: A stylish website with a host of features.
 - **[Project 3: Deep Blue Sea Food](www.deepblueseafoodllc.com)**: A professional website that helps owner get clients and leads on producs he has in stock.
 
