@@ -55,7 +55,7 @@ At SugarBroom Studios, we offer a range of services to help your business succee
 We use a combination of the latest tools and technologies to build websites that are secure, fast, and easy to manage:
 
 - **Frontend Development**:
-  - HTML5, CSS3, JavaScript
+  - Blazor
   - .Net, Bootstrap
 
 - **Backend Development**:
