@@ -118,7 +118,7 @@ For more examples, check out our full portfolio on our [SugarBroom Studios](www.
 
 Ready to get started on your website? Reach out to us today!
 
-- **Email**: [info@sugarbroomstudios.com](mailto:sugarbroomstudios@gmail.com)
+- **Email**: [sugarbroomstudios@gmail.com](mailto:sugarbroomstudios@gmail.com)
 
 ---
 
